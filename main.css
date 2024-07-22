@@ -11,14 +11,17 @@
     }
     
 
-   .highlight1{ background: linear-
-   gradient(transparent 80%, #333c5e 80%);}
+.highlight1{ 
+ background-color: linear-gradient(transparent 80%, #333c5e 80%);
+}
 
-   .highlight2{ background: linear-
-   gradient(transparent 80%, #333c5e 80%);}
+.highlight2{ 
+ background-color: linear-gradient(transparent 80%, #333c5e 80%);
+}
 
-    .highlight3{ background: linear-
-   gradient(transparent 80%, #333c5e 80%);}
+.highlight3{ 
+ background-color: linear-gradient(transparent 80%, #333c5e 80%);
+}
 
 .highlight4{ 
  background-color: linear-gradient(transparent 80%, #333c5e 80%);
