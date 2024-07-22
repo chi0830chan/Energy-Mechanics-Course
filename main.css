@@ -14,20 +14,3 @@
  background: linear-gradient(transparent 80%, #333c5e 80%);
 }
 
-　【PC用のCSSコード】
-
-@media screen and (min-width: 767px) { /*ウィンドウ幅が767px以上の場合に適用*/
-
-#menu-bg {background-color: #00FFFF; /*青色*/}}
-
-【スマートフォン用のCSSコード】
-
-@media screen and (max-width: 479px) { /*ウィンドウ幅が最大479pxまでの場合に適用*/
-
-#menu-bg {background-color: #00FF00; /*緑色*/}}
-
-【タブレット用のCSSコード】
-
-@media screen and (max-width: 767px) { /*ウィンドウ幅が最大767pxまでの場合に適用*/
-
-#menu-bg {background-color: #FF0000; /*赤色*/}}
